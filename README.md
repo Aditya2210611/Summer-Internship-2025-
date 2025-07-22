@@ -1,4 +1,4 @@
-
+---
 
 ## 📘 Summer Internship at Aigetai (12 May – 12 July 2025)
 
@@ -107,17 +107,47 @@ Welcome to the documentation for my summer internship at **Aigetai**, where I ex
 
 ---
 
+<details>
+<summary>▶️ 📦 Week 7 (23 June – 29 June)</summary>
+
+#### ✅ Continued Task: Object Addition in Images - Final Phase
+
+* 🧠 Focused on automating the **realistic grounding** of added objects using depth maps.
+* 🧮 Used **MiDaS ONNX** models for depth estimation.
+* ⚒️ Implemented dynamic scaling and placement to enhance visual realism.
+* 📊 Validated image realism using heuristic and visual evaluations.
+* 🧪 Successfully built scenes involving 3+ objects with natural lighting, scaling, and shadows.
+
+</details>
+
+---
+
+<details>
+<summary>▶️ 📦 Week 8 (30 June – 06 July)</summary>
+
+#### ✅ Task: Pencil Sketch Filter App
+
+* ✏️ Built a live **pencil sketch filter** using OpenCV and Streamlit.
+* 📸 Users could upload an image and instantly see the sketch version.
+* ⚙️ Applied techniques such as grayscale conversion, Gaussian blur, and edge inversion.
+* 🧰 Explored various artistic filter styles for future extension (e.g., watercolor, cartoon).
+* 🚀 Lightweight app suitable for real-time or batch image processing.
+
+</details>
+
+---
+
 ## 🛠️ Technical Stack
 
 * **Languages**: Python
 * **Frameworks**: Streamlit
 * **Libraries Used**:
 
-  * `Stable Diffusion`, `Diffusers`, `Transformers`, `Torch`, `Sklearn`, `PIL`, `SpeechRecognition`, `pyttsx3`, etc.
+  * `Stable Diffusion`, `Diffusers`, `Transformers`, `Torch`, `Sklearn`, `PIL`, `SpeechRecognition`, `pyttsx3`, `OpenCV`, etc.
 * **Tools**: Google Colab, Jupyter, VS Code, Git
 
 ---
 
 ## 🚀 Summary
 
-This internship at Aigetai allowed me to practically explore tasks in AI/ML, NLP, and image processing. From building applications using Stable Diffusion to developing intelligent filtering systems and working on grounded object insertion into images, I’ve gained valuable hands-on experience in applied AI.
+This internship at Aigetai allowed me to practically explore tasks in AI/ML, NLP, and image processing. From building applications using Stable Diffusion to developing intelligent filtering systems and working on grounded object insertion into images, I’ve gained valuable hands-on experience in applied AI. The final weeks gave me the opportunity to refine object realism using depth-based techniques and explore creative real-time filters using OpenCV.
